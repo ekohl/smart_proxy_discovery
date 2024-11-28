@@ -20,5 +20,5 @@ Gem::Specification.new do |s|
 
   s.required_ruby_version = '>= 2.5', '< 4'
 
-  s.add_runtime_dependency('rest-client')
+  s.add_runtime_dependency('rest-client', '~> 2.0')
 end
