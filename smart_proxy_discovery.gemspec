@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/theforeman/smart_proxy_discovery'
   s.license = 'GPL-3.0-only'
 
-  s.required_ruby_version = '>= 2.5', '< 4'
+  s.required_ruby_version = '>= 2.7', '< 4'
 
   s.add_runtime_dependency('rest-client', '~> 2.0')
 end
