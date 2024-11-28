@@ -14,7 +14,6 @@ group :development do
 end
 
 group :test do
-  gem 'ci_reporter_test_unit'
   gem 'mocha'
   gem 'rack-test'
   gem 'rake'
