@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = ['README.md', 'LICENSE']
   s.files = Dir['{lib,settings.d,bundler.d}/**/*'] + s.extra_rdoc_files
   s.homepage = 'https://github.com/theforeman/smart_proxy_discovery'
-  s.license = 'GPLv3'
+  s.license = 'GPL-3.0-only'
 
   s.required_ruby_version = '>= 2.5', '< 4'
 
